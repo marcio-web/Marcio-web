@@ -76,8 +76,8 @@ Sou o Márcio Alvim, desenvolvedor Web full-stack e formado em Análise de Siste
 
 ### ⚙️ Analytics
  
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Marcio-web&theme=light&show_icons=true" style="height: 163px;"/></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcio-web&theme=light&layout=compact" width="410" /></p>
+<p> <img align="center" src="https://github-readme-stats-alpha-nine-47.vercel.app/api?username=Marcio-web&theme=light&show_icons=true" style="height: 163px;"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-alpha-nine-47.vercel.app/api/top-langs/?username=Marcio-web&theme=light&layout=compact" width="410" /></p>
 
 ------
 Creditos: <em> [NavodyaPasqual](https://github.com/NavodyaPasqual) </em>
