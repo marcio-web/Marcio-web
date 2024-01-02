@@ -7,7 +7,7 @@ Sou o Márcio Alvim, desenvolvedor Web full-stack e formado em Análise de Siste
 
 <!-- TODO: Add last video link -->
 
-- :telescope: Atualmente, estou estudando Business Inteligence.
+- :telescope: Atualmente, estou estudando Data Analisys.
 - :blush: Proativo e sempre pronto para trabalhos.
 - :left_speech_bubble: Pergunte-me sobre <mark>CSS</mark>.
 
