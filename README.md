@@ -3,12 +3,10 @@
  <p/>
 <h1 align="center"> Oi! Marcio Aqui! <img src="https://github.com/nixin72/nixin72/blob/master/wave.gif" width="40px" alt="hi"></h1>
 
-<hr>
+Sou o Márcio Alvim, Analista BI e desenvolvedor Web full-stack, formado em Análise de Sistemas e Logística 💻. 
+Apaixonado por tecnologia e pelo que ela proporciona para a sociedade.
+Atualmente estou cursando Analise de Business Intelligence com Power Bi, execultando todo o processo de Analise, Tratamento e visualização de dados utilizando ferramentas de consultas SQL e de visualização como Power Bi e Metabase, gerando insides relevantes para a tomada de decisão.
 
-Sou o Márcio Alvim, Analista BI e desenvolvedor Web full-stack, formado em Análise de Sistemas e Logística 💻. Apaixonado por tecnologia e pelo que ela proporciona para a sociedade.
-Atualmente estou cursando Analise de Business Intelligence com Power Bi, execultandp todo o processo de Analise, Tratamento e visualização de dados utilizando ferramentas de consultas SQL e de visualização como Power Bi e Metabase, gerando insides relevantes para a tomada de decisão.
-
-- :telescope: Atualmente, estou estudando Data Analisys.
 - :blush: Proativo e sempre pronto para trabalhos.
 - :left_speech_bubble: Pergunte-me sobre <mark>Power BI</mark>.
 
@@ -53,6 +51,7 @@ Atualmente estou cursando Analise de Business Intelligence com Power Bi, execult
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+
 
   <a href="http://www.github.com/pazzutti"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></a>
 Creditos: <em> [NavodyaPasqual](https://github.com/NavodyaPasqual) </em>
