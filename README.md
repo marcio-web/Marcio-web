@@ -1,9 +1,12 @@
 <p align="center">
 <img alt="GIF" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" width="360" />
  <p/>
-<h1 align="center"> Hello! I'm Márcio <img src="https://github.com/nixin72/nixin72/blob/master/wave.gif" width="40px" alt="hi"></h1>
+<h1 align="center"> Oi! Marcio Aqui! <img src="https://github.com/nixin72/nixin72/blob/master/wave.gif" width="40px" alt="hi"></h1>
 
-Sou o Márcio Alvim, desenvolvedor Web full-stack e formado em Análise de Sistemas e Logística 💻.
+<hr>
+
+Sou o Márcio Alvim, Analista BI e desenvolvedor Web full-stack, formado em Análise de Sistemas e Logística 💻. Apaixonado por tecnologia e pelo que ela proporciona para a sociedade.
+Atualmente estou cursando Analise de Business Intelligence com Power Bi, execultandp todo o processo de Analise, Tratamento e visualização de dados utilizando ferramentas de consultas SQL e de visualização como Power Bi e Metabase, gerando insides relevantes para a tomada de decisão.
 
 - :telescope: Atualmente, estou estudando Data Analisys.
 - :blush: Proativo e sempre pronto para trabalhos.
